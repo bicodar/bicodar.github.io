@@ -1,0 +1,79 @@
+body{
+    background-color: rgba(232, 112, 25, 1);
+}
+.uno{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+.due{
+    background-color: rgba(79, 75, 251, 1);
+    padding: 20px;
+    padding-left: 130px;
+    padding-right: 130px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+
+}
+.tre{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+
+}
+.quattro{
+    background-color: rgba(79, 75, 251, 1);
+    padding: 30px;
+    text-align: center;
+
+    
+
+
+
+}
+.cinque{
+    font-size: 35px;
+
+}
+.sei{
+    text-align: center;
+    margin-top: 30px;
+    
+
+}
+.sette{
+    border-radius: 50px;
+}
+.otto{
+
+}
+.nove{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: center;
+    font-size: 20px;
+}
+.dieci{
+    display: flex;
+    background-color: rgba(79, 75, 251, 1);
+    height: 200px;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+input.warning {
+    background-color: coral;
+}
+#caratteririmanenti.warning {
+    color: darkred;
+}
+input.error {
+   background-color: coral;
+}
+#caratteririmanenti.error{
+    color: darkred;
+}
